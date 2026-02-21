@@ -1,1 +1,2 @@
 # lifeGame
+1. 
